@@ -26,7 +26,7 @@
     </jdbcDriver>
 
     <dataSource id="wmqfte-database" jdbcDriverRef="Oracle" jndiName="jdbc/wmqfte-database" type="javax.sql.XADataSource">
-    	<properties.oracle URL="j${DB_CONN_STRING}" password="${DB_PASSWORD}" user="${DB_USER}"/>
+    	<properties.oracle URL="${DB_CONN_STRING}" password="${DB_PASSWORD}" user="${DB_USER}"/>
     	<connectionManager maxPoolSize="20" minPoolSize="0"/>
     </dataSource>
 
