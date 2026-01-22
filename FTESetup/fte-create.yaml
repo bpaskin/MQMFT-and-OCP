@@ -118,7 +118,7 @@ spec:
   license:
     accept: true
     license: L-NUUP-23NH8Y
-    use: NonProduction
+    use: Production
   web:
     enabled: true
   version: 9.4.4.1-r1
@@ -158,7 +158,7 @@ spec:
   license:
     accept: true
     license: L-NUUP-23NH8Y
-    use: NonProduction
+    use: Production
   web:
     enabled: true
   version: 9.4.4.1-r1
@@ -198,7 +198,7 @@ spec:
   license:
     accept: true
     license: L-NUUP-23NH8Y
-    use: NonProduction
+    use: Production
   web:
     enabled: true
   version: 9.4.4.1-r1
@@ -238,7 +238,7 @@ spec:
   license:
     accept: true
     license: L-NUUP-23NH8Y
-    use: NonProduction
+    use: Production
   web:
     enabled: true
   version: 9.4.4.1-r1
