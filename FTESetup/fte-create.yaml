@@ -117,11 +117,11 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-RJON-C7QG3S
+    license: L-NUUP-23NH8Y
     use: NonProduction
   web:
     enabled: true
-  version: 9.2.5.0-r1
+  version: 9.4.4.1-r1
   template:
     pod:
       containers:
@@ -157,11 +157,11 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-RJON-C7QG3S
+    license: L-NUUP-23NH8Y
     use: NonProduction
   web:
     enabled: true
-  version: 9.2.5.0-r1
+  version: 9.4.4.1-r1
   template:
     pod:
       containers:
@@ -197,11 +197,11 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-RJON-C7QG3S
+    license: L-NUUP-23NH8Y
     use: NonProduction
   web:
     enabled: true
-  version: 9.2.5.0-r1
+  version: 9.4.4.1-r1
   template:
     pod:
       containers:
@@ -237,11 +237,11 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-RJON-C7QG3S
+    license: L-NUUP-23NH8Y
     use: NonProduction
   web:
     enabled: true
-  version: 9.2.5.0-r1
+  version: 9.4.4.1-r1
   template:
     pod:
       containers:
